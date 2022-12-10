@@ -1,4 +1,4 @@
 # freyastack.com
 
-A website for Freya!
+A portfolio website for beloved Freya!
 https://freyastack.com
