@@ -163,11 +163,12 @@ a:focus, img:focus, button:focus, .btn:focus {outline:none;text-decoration: none
 
 
 .header hgroup h1{ padding:0; margin:0; 
+text-align: center;
 }
 
 
 .header hgroup h1 a{ 
-display:block; float:left; max-width:400px 
+/* display:block; float:left; max-width:400px */
 }
 
 
