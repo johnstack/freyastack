@@ -167,8 +167,9 @@ text-align: center;
 }
 
 
-.header hgroup h1 a{ display:block; float:left; 
-*/ max-width:400px /*
+.header hgroup h1 a{ 
+*/ display:block; float:left; max-width:400px /*
+	text-align: center;
 }
 
 
