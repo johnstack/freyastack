@@ -117,3 +117,4 @@ body{ overflow-x: none}
 @media only screen and (max-width:400px) {.small-block-grid-2 > li{ width:100%}}
 
 
+.img-resonsive {max-height: 90vh;margin-left:auto;margin-right:auto;}
