@@ -118,5 +118,6 @@ body{ overflow-x: none}
 
 
 
-@media (min-width: 768px) 
+@media (min-width: 768px) {
   .portraitscreen {height:50%;width:50%;margin-left:auto;margin-right:auto;} 
+}
