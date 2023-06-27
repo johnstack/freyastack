@@ -6,7 +6,6 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
   <loc>https://freyastack.com/</loc>
   <lastmod>2022-12-14T09:32:02+00:00</lastmod>
@@ -79,7 +78,12 @@
 </url>
 <url>
   <loc>https://freyastack.com/kidjo_font/</loc>
-  <lastmod>2023-05-06T09:32:02+00:00</lastmod>
+  <lastmod>2023-06-27T09:29:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://freyastack.com/remain_in_light/</loc>
+  <lastmod>2023-06-27T09:29:21+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>
