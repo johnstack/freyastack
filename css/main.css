@@ -358,7 +358,7 @@ z-index:2;transition: width 0.3s; z-index:1}
 .main-wrapper-inner{ margin-bottom:80px}
 
 
-.wrapper-inner{ margin:auto; width:100%; max-width:1031px; padding-top:71px; padding-bottom:20px}
+.wrapper-inner{ margin:auto; width:100%; max-width:1031px; padding-top:20px; padding-bottom:20px}
 
 
 .inner-left{ float:none; width:100%; max-width:331px; margin-left: auto; margin-right:auto;}
