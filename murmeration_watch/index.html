@@ -80,6 +80,8 @@
     <img src="background.png" class="background" alt="Clock background"> 
     <img src="hours.png"   id="hours"   class="hand" >
     <img src="minutes.png" id="minutes" class="hand" >
+    <img src="background.png" id="seconds" class="hand" style="opacity:0">
+
   </div>
 
   <script>
@@ -100,7 +102,7 @@
     }
 
     updateClock();
-    setInterval(updateClock, 10);
+    setInterval(updateClock, 1000);
   </script>
   
 </body>
