@@ -16,6 +16,13 @@
   <lastmod>2024-04-13T12:42:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+
+<url>
+  <loc>https://freyastack.com/mirrors_comic/</loc>
+  <lastmod>2026-04-03T13:51:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 <url>
   <loc>https://freyastack.com/inky_sponge_font/</loc>
   <lastmod>2024-04-13T12:42:01+00:00</lastmod>
@@ -39,6 +46,18 @@
 <url>
   <loc>https://freyastack.com/business_card/</loc>
   <lastmod>2025-08-25T13:51:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://freyastack.com/the_red_frontier/</loc>
+  <lastmod>2026-04-03T13:51:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://freyastack.com/murmuration_watch/</loc>
+  <lastmod>2026-04-03T13:51:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>
