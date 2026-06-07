@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colony</title>
+    <link rel="stylesheet" href="styles.css">
+    
+
+	<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+
+
+</head>
+
+<body>
+
+    <div id="app">
+        <div id="video-container">
+            <video id="video-player" playsinline webkit-playsinline autoplay muted "></video>
+            <div id="hotspot-overlay"></div>
+        </div>
+        <div id="quiz-container" style="display: none;">
+            <div id="quiz-content"></div>
+        </div>
+        <div id="text-popup" style="display: none;">
+            <div id="text-content"></div>
+            <button id="close-text">Close</button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+    
+    <script>
+		const video = document.getElementById('video-player');
+
+		document.addEventListener('click', () => {
+  		video.muted = false;
+  		video.play().catch(() => {});
+		}, { once: true });
+	</script>
+    
+</body>
+</html>
