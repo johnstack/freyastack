@@ -57,9 +57,9 @@
     
     <script src="script.js"></script>
     
+ <!-- Unmute auto on first user click -->     
     <script>
 		const video = document.getElementById('video-player');
-
 		document.addEventListener('click', () => {
   		video.muted = false;
   		video.play().catch(() => {});
